@@ -1,0 +1,18 @@
+{
+  "name": "hs-test-1",
+  "version": "1.0.0",
+  "description": "heh",
+  "main": "index.js",
+  "scripts": {
+    "test": "node index"
+  },
+  "repository": {
+    "type": "git",
+    "url": "github.com/zaur-lumanov/hs-test-1"
+  },
+  "keywords": [
+    "heh"
+  ],
+  "author": "Zaur_Lumanov",
+  "license": "MIT"
+}
